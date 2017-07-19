@@ -1,5 +1,7 @@
 # Web Development Internship Project
 
+This task was carefully designed to reflect many of the day-to-day tasks performed by our current web development intern. Please do not spend more than a couple hours on this task. It is not meant to be perfect, just a tool for us to gauge your abilities in web development and problem solving. Once you have completed, please email the project in a zipped folder.
+
 ## To the best of your abilities, please implement these features:
  
 - Clicking a numbered button changes the image to the respective number from the sprite sheet called numbersheet.png
